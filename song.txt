@@ -5,8 +5,11 @@ On this their chosen battle field
 
 From the lines
 Shield by shield
+<<<<<<< HEAD
 
 111111111
 222222222
 333333333
 444444444
+=======
+>>>>>>> 1650e942bbc707b16dfcb547aa7672d14479d10d
